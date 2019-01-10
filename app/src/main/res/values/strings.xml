@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThingsLantern</string>
+    <!-- Message to display while video is buffering. -->
+    <string name="buffering_string">Loading&#8230;</string>
+
+    <!-- Message to display when video is finished playing. -->
+    <string name="toast_message">Playback completed.</string>
+    <string name="status_list">Device List</string>
+    <string name="status_removed">Device Detached</string>
+    <string name="status_added">Device Attached</string>
+</resources>
