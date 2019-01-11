@@ -60,8 +60,7 @@ public class MainActivity extends Activity {
     // private static final String VIDEO_SAMPLE = "tacoma_narrows";
 
     // Use this string for part 2 (load media from the internet).
-    private static final String VIDEO_SAMPLE =
-            "https://developers.google.com/training/images/tacoma_narrows.mp4";
+    //private static final String VIDEO_SAMPLE = "https://developers.google.com/training/images/tacoma_narrows.mp4";
     // Use this string for part 2 (load media from the internet).
     private static final String VIDEO_SAMPLE_01 = "video01.mp4";
     private static final String VIDEO_SAMPLE_02 = "video02.mp4";
